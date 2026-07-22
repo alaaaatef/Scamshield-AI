@@ -1,1 +1,1 @@
-🔗 Live demo: https://your-app-name.streamlit.app](https://scamshield-ai-iwaevuowyo53vwpiirjbek.streamlit.app/)
+🔗 Live demo: https://scamshield-ai-bjxesbw7q4m3vowroappcuj.streamlit.app/
